@@ -359,10 +359,10 @@ a {
 
 @media only screen and (max-width: 600px) {
   a.arrow__btn {
-    display: none;
+    display: contents;
   }
   .wrapper {
-    display: none;
+    display: contents;
   }
 
   .wrapper section .item {
